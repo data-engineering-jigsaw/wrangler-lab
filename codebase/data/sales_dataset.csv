@@ -1,4 +1,4 @@
-order_id, product_id, category, quantity, unit_price, total_price, date, customer_id, payment, status
+order_id,product_id,category,quantity,unit_price,total_price,date,customer_id,payment,status
 873ff350-854d-4bd8-aebf-6cc5e1a6d3b7,26ab320e-62f2-4203-be68-f8740085d796,Sports & Outdoors,4,154.05050900208764,616.2020360083505,2023-08-02,292fe8cf-4d60-437b-8488-4c225e84d48d,Credit Card,Completed
 7cb2641e-ea6b-4faf-a7ab-24992d5573fa,8c0d7ba9-1e6b-412a-8359-97d964ad19e5,Home & Kitchen,5,275.5399076850554,1377.699538425277,2023-09-03,a026178d-e3ed-4d45-a49c-8336479b2114,PayPal,Refunded
 94e0de8a-419d-46e1-9e7c-65c730b89c65,5d65b6c7-1894-4207-b7e3-b53cc2d5e5e3,Beauty & Health,3,56.41009812094193,169.2302943628258,2023-12-06,808e8010-1552-42dd-a9c5-eacd4fde3283,Debit Card,Cancelled
